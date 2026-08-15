@@ -46,11 +46,12 @@ An IoT-based air quality monitoring project using microcontroller platforms, sen
 
 **Technologies:** Arduino, ESP32, IoT
 
-### 🔹 RIS-Assisted NOMA Cognitive Radio Network Optimization
+### ### 🔹 RIS-Assisted NOMA Cognitive Radio Network Optimization
 
-A MATLAB-based project focused on optimizing RIS phase shifts and power allocation for a cognitive radio network.
+A MATLAB-based project focused on optimizing RIS phase shifts and power allocation for a cognitive radio network using NOMA to improve communication performance.
 
-**Technologies:** MATLAB
+**Technologies:** MATLAB, Wireless Communication, RIS (Reconfigurable Intelligent Surfaces), NOMA (Non-Orthogonal Multiple Access), Cognitive Radio, Optimization Algorithms, Power Allocation, Phase Shift Optimization, Numerical Simulation
+
 
 ### 🔹 Digital Image Watermarking System
 
