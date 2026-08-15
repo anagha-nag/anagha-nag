@@ -1,4 +1,4 @@
-# Hi, I'm Anagha Nag S.P. 👋
+# Hi, I'm Anagha Nag S.P
 
 ### Electronics & Communication Engineering Student
 
